@@ -1,0 +1,10 @@
+q: quit
+b: cyan
+r: red
+g: green
+y: white
+1: increase speed
+0: reset speed
+f3: toggle coordinates
+e: camra
+p: player
